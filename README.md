@@ -43,10 +43,5 @@ The laboratory demonstrates the following:
 4. Use of GitHub collaboration features.
 5. Proper documentation and coding practices.
 
-## Laboratory Information
 
-**Student Name:** Jesse James S. Maghanay  
-**Program:** BS Computer Engineering  
-**Course:** CPE106L-4 Software Design Laboratory  
-**Laboratory:** Laboratory 1
   
